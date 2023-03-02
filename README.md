@@ -1,7 +1,9 @@
 # RAENET
 重加权变分自编码器个体因果效应估计网络
 
-pytorch
+torch=1.13.1
+numpy=1.21.6
+matplotlib=3.5.3
 
 运行方式python RAENet.py
 
